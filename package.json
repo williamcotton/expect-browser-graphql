@@ -1,0 +1,27 @@
+{
+  "name": "expect-browser-graphql",
+  "version": "1.0.0",
+  "description": "Expect Browser GraphQL",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-browser-graphql.git"
+  },
+  "keywords": [
+    "expect",
+    "browser",
+    "graphql"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-browser-graphql/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-browser-graphql#readme"
+}
